@@ -1,0 +1,8 @@
+group Server
+  FSharp.Core
+  Giraffe
+  Microsoft.AspNetCore
+  Microsoft.AspNetCore.StaticFiles
+  Microsoft.AspNetCore.Authentication.JwtBearer
+  Fable.Remoting.Giraffe
+  Microsoft.DotNet.Watcher.Tools
